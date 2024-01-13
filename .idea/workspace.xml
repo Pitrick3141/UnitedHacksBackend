@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd7d2fc-d638-49c6-91b5-71bc0608f529" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/united-hacks-data/lambda_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/united-hacks-prompt/lambda_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/united-hacks-prompt/lambda_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
