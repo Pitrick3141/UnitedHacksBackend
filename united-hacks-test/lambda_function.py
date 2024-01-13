@@ -3,7 +3,7 @@ import json
 
 def lambda_handler(event, context):
     # Handle Headers
-    origin = ''
+    origin = '*'
     if 'origin' in event['headers'].keys():
         origin = event['headers']['origin']
 

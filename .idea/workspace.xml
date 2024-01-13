@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd7d2fc-d638-49c6-91b5-71bc0608f529" name="变更" comment="" />
+    <list default="true" id="1bd7d2fc-d638-49c6-91b5-71bc0608f529" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prompt/lambda_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/united-hacks-prompt/lambda_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/united-hacks-test/lambda_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/united-hacks-test/lambda_function.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
